@@ -195,7 +195,7 @@ private:
 
     {
       // make sure there's a dominant consensus orientation and that we have a minimum number of samples:
-      static const float minMaxFrac(0.9f);
+      static const float minMaxFrac(0.8f);
 
       using namespace illumina::common;
 
